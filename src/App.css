@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.container{
+  width: 80%;
+  text-align: center;
+  height: 750px;
+  margin: auto;
+  box-sizing: border-box;
+  padding-top: 20px;
+  line-height: 1.5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #262626;
+  color: #fff;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
